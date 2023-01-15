@@ -15,6 +15,16 @@ body {
     background-color: #FF900E;
     color: white;
     border-radius: 8px;
+    border: #FF900E;
+}
+
+.spe-des {
+    width: 542px;
+    height: 52px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #727272;
+    text-align: center;
 }
 
 /* header and banner style*/
@@ -141,7 +151,7 @@ ui {
     background: #FF900E;
     border-radius: 8px;
     color: white;
-
+    border: #FF900E;
 
 }
 
@@ -180,7 +190,7 @@ ui {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-     margin-top: 90px; 
+    margin-top: 90px;
 
 }
 
